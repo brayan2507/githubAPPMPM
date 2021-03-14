@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    padding: 100px 200px;
+}
+
+.main{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/Fondo.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
